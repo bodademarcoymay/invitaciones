@@ -193,8 +193,8 @@ section.portada{
   display: flex;
   position: fixed;
   cursor: pointer;
-  right: 20px;
-  top: 30px;
+  right: 5vw;
+  top: 5vw;
   background-position-x: 100px;
 }
 
@@ -219,12 +219,6 @@ section.portada{
 #player-musica-fondo{
   position: absolute;
   left: -99999px;
-}
-
-#musica-fondo {
-  width: 0;
-  height: 0;
-  visibility: hidden;
 }
 
 
