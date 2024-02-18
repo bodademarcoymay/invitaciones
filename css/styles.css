@@ -196,6 +196,7 @@ section.portada{
   right: 5vw;
   top: 5vw;
   background-position-x: 100px;
+  display: none;
 }
 
 #musica-fondo {
