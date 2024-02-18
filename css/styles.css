@@ -221,6 +221,9 @@ section.portada{
   left: -99999px;
 }
 
+#musica-fondo {
+  display: none;
+}
 
 
 /* ---------- */
