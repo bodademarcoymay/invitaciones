@@ -12,6 +12,7 @@ body{
   font-family: 'Montserrat', sans-serif;
   font-size: 17px;
   font-weight: 400;
+  width: 102vw;
 }
 
 p{
@@ -146,8 +147,8 @@ a:hover{
 	text-shadow: 0;
   width: 30px;
   height: 30px;
-  border-bottom: 4px solid #FFFF;
-  border-right: 4px solid #FFFF;
+  border-bottom: 4px solid #000000;
+  border-right: 4px solid #000000;
   z-index: 9;
   left: calc(50% - 15px);
   -webkit-transform: translate(-50%, 0%) rotate(45deg);
@@ -698,7 +699,7 @@ section.contacto ul li i{
 
   .logo-portada img{
     max-width: 85%;
-    margin-bottom: 20%;
+    margin-bottom: 30%;
     margin-top: 0%;
   }
 
