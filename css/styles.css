@@ -198,6 +198,10 @@ section.portada{
   background-position-x: 100px;
 }
 
+#musica-fondo {
+  display: none;
+}
+
 .animation {
   animation: animation 2s ease infinite;
 
