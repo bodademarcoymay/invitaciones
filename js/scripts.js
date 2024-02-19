@@ -8,6 +8,10 @@ $('.parallax-portada').parallax({
   imageSrc: 'img/portada.jpg'
 });
 
+$('.parallax-gracias').parallax({
+  imageSrc: 'img/portada.jpg'
+});
+
 // ----------------------
 
 // Cuenta regresiva
